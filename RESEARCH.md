@@ -3,8 +3,8 @@
  - [ICIP 2023] TR3D: Towards Real-Time Indoor 3D Object Detection <br>
    **Danila Rukhovich**, Anna Vorontsova, Anton Konushin <br>
    [code](https://github.com/SamsungLabs/tr3d) | [mmdetection3d](https://github.com/open-mmlab/mmdetection3d/tree/main/projects/TR3D) | [arxiv](https://arxiv.org/abs/2302.02858)
- - [2023] TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation <br>
-   Maksim Kolodiazhnyi\*, **Danila Rukhovich\***, Anna Vorontsova, Anton Konushin <br>
+ - [2023] Top-Down Beats Bottom-Up in 3D Instance Segmentation <br>
+   Maksim Kolodiazhnyi, Anna Vorontsova, Anton Konushin, **Danila Rukhovich** <br>
    [code](https://github.com/SamsungLabs/td3d) | [arxiv](https://arxiv.org/abs/2302.02871)
  - [ECCV 2022] FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection <br>
    **Danila Rukhovich**, Anna Vorontsova, Anton Konushin <br>
@@ -30,5 +30,3 @@
  - [ICCVw 2019] Estimation of absolute scale in monocular slam using synthetic data <br>
    **Danila Rukhovich**, Daniel Mouritzen, Ralf Kaestner, Martin Rufli, Alexander Velizhev <br>
    [arxiv](https://arxiv.org/abs/1909.00713)
-
-\* for equal contribution
