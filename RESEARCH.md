@@ -1,5 +1,8 @@
 ### Selected Research
 
+ - [CVPR 2024] OneFormer3D: One Transformer for Unified Point Cloud Segmentation <br>
+   Maksim Kolodiazhnyi, Anna Vorontsova, Anton Konushin, **Danila Rukhovich** <br>
+   [code](https://github.com/filapro/oneformer3d) | [arxiv](https://arxiv.org/abs/2311.14405)
  - [ICIP 2023] TR3D: Towards Real-Time Indoor 3D Object Detection <br>
    **Danila Rukhovich**, Anna Vorontsova, Anton Konushin <br>
    [code](https://github.com/SamsungLabs/tr3d) | [mmdetection3d](https://github.com/open-mmlab/mmdetection3d/tree/main/projects/TR3D) | [arxiv](https://arxiv.org/abs/2302.02858)
