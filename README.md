@@ -1,3 +1,3 @@
-### Hi I'm Danila
+### Hi, I'm Danila
 
-My selected reseach can be found on [github](https://github.com/filaPro/filaPro/blob/main/RESEARCH.md), others on [scholar](https://scholar.google.com/citations?user=Osx2uh5eA2kC&hl=en).
+If you're here, you may be interested in my 3D object detection projects—[ImVoxelNet](https://github.com/samsunglabs/imvoxelnet) [WACV'22], [FCAF3D](https://github.com/samsunglabs/fcaf3d) [ECCV'22], [TR3D](https://github.com/samsunglabs/tr3d) [ICIP'23], [TD3D](https://github.com/samsunglabs/td3d) [WACV'24], [OneFromer3D](https://github.com/filapro/oneformer3d) [CVPR'25], and [UniDet3D](https://github.com/filapro/unidet3d) [AAAI'25]—or my other work like the 2D object detector [IterDet](https://github.com/samsunglabs/iterdet) [2021] and [CAD-Recode](https://github.com/filapro/cad-recode) [2024], an **LLM that converts point clouds into 3D CAD models**. You can find more of my projects on [scholar](https://scholar.google.com/citations?user=Osx2uh5eA2kC).
